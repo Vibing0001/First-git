@@ -1,0 +1,2 @@
+this Text was written in this new txt folder, which is in the new branch that is called new. 
+this line was added later
