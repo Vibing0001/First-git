@@ -1,8 +1,6 @@
 I am learning git and github.
 I am adding this line later.
 I am updating it for the third time. 
-<<<<<<< HEAD
-=======
 
 this new line is added in a new branch.
->>>>>>> feature1
+this line was written after both branches merged.
